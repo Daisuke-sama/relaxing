@@ -1,2 +1,2 @@
 # my code relaxing
-Here are files with my code which is produced when I am nothing to do.
+There are files with my code here which is produced when I have nothing to do.
